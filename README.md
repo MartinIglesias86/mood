@@ -7,7 +7,7 @@ For this project I used:<br>
 * Solidity<br>
 
 ## :computer: How to run it?
-Just click here, connect your wallet (make sure you are on the Ropsten testnet) and push the "Get Mood" to see the last mood stored or the "Set mood" to set the mood to whatever you write in the box
+Just click [HERE](https://martiniglesias86.github.io/mood/), connect your wallet (make sure you are on the Ropsten testnet) and push the "Get Mood" to see the last mood stored or the "Set mood" to set the mood to whatever you write in the box
 
 
 <h3 align="center">Connect with me:</h3>
